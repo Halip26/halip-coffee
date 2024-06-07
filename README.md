@@ -1,1 +1,1 @@
-# Simple to do list website
+# A simple coffe shop website
