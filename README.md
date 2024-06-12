@@ -1,8 +1,12 @@
 # Halip Coffee Project
 
+This repository contains a web application dedicated to coffee enthusiasts. It's built using HTML, CSS, and JavaScript.
+
+![Halip Coffe](assets/logo.png)
+
 ## Overview
 
-This project is a web application dedicated to coffee enthusiasts. It provides a platform to explore various coffee blends, brewing methods, and coffee culture.
+This web application provides a platform to explore various coffee blends, brewing methods, and coffee culture.
 
 ## Features
 
@@ -26,15 +30,19 @@ git clone <https://github.com/Halip26/halip-coffee.git>
 
 ```
 
-Navigate to the project directory and open `index.html` in your web browser to view the application.
+Navigate to the project directory and open [`index.html`](index.html) in your web browser to view the application.
 
 ## Contributing
 
-Contributions to the Halip Coffee Project are welcome. Please read the `CONTRIBUTING.md` file for guidelines on how to make contributions.
+Contributions are welcome! If you'd like to improve this project or add new features, feel free to submit a pull request.
+
+## Author
+
+- **Halipuddin** (GitHub: [Halip26](https://github.com/Halip26))
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+This project is licensed under the MIT License - see the [`LICENSE.md`](LICENSE.md) file for details.
 
 ## Acknowledgments
 
